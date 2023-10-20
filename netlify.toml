@@ -7,4 +7,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://www.zola.com/wedding/joyaustin2024"
+  to = "https://zola.com/wedding/joyaustin2024"
+  force = true
